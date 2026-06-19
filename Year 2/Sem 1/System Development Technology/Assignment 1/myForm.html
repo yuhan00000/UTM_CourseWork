@@ -1,0 +1,96 @@
+<html>
+<head>
+    <title>Student Registration Form</title>
+    <!--  CSS File  -->
+
+    <style>
+        body{
+            
+            text-align: center;
+            border-style: double;
+            padding: 10px;
+            margin: 0;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h3.solid{
+            border: 3px solid rgb(196, 208, 245);
+            padding: 8px;
+            background-color: rgb(196, 208, 245);
+        }
+    </style>
+</head>
+
+<body>
+    
+    <img src="logo_utm.png" alt="This is UTM logo" width="500" height="150" style="display: block; margin: auto;">
+    <h1 style="text-align: center;">Student Registration Form</h1>
+    
+    <h3 class="solid">Student Personal Details</h3>
+
+    <form action="" method="POST">
+        <label>Full Name: </label>
+        <input type="text" id="name" name="name" required><br>
+
+        <label>Student ID: </label>
+        <input type="text" id="studentid" name="studentid" required><br>
+
+        <label>Email address: </label>
+        <input type="email" id="email" name="email" required><br>
+
+        <label>Phone number: </label>
+        <input type="text" id="phonenumber" name="phonenumber" required><br>
+
+        <label>Gender: </label>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label><br>
+        
+
+        <label for="birthday">Date of Birth:</label>
+        <input type="date" id="birthday" name="birthday"><br>
+
+        <h3 class="solid">Academic Information</h3>
+
+        <label for="programme">Programme of Study:</label>
+        <select id="programme" name="programme">
+            <option value="dataengineering">Data Engineering</option>
+            <option value="softwareengineering">Software Engineering</option>
+            <option value="networksecurity">Network Security</option>
+            <option value="bioinfometrics">Bioinfometrics</option>
+            <option value="graphicdesign">Graphic Design</option>
+        </select><br>
+
+        <label for="yearofstudy">Year of Study:</label>
+        <select id="yearofstudy" name="yearofstudy">
+            <option value="year1">Year1</option>
+            <option value="year2">Year2</option>
+            <option value="year3">Year3</option>
+            <option value="year4">Year4</option>
+        </select><br>
+
+        <h3 class="solid">Subject Selection</h3>
+
+        <input type="checkbox" id="subject1" name="subject1" value="Digital Logic">
+        <label for="subject1">Digital Logic</label><br>
+        <input type="checkbox" id="subject2" name="subject2" value="Discrete Structure">
+        <label for="subject2">Discrete Structure</label><br>
+        <input type="checkbox" id="subject3" name="subject3" value="Programming Technique 1">
+        <label for="subject3">Programming Technique 1</label><br>
+        <input type="checkbox" id="subject4" name="subject4" value="Programming Technique 2">
+        <label for="subject4">Programming Technique 2</label><br>
+        <input type="checkbox" id="subject5" name="subject5" value="Computer Organization Architecture">
+        <label for="subject5">Computer Organization Architecture</label><br>
+
+        <br>
+        <input type="submit" value="Submit" style="background-color: rgb(201, 245, 196); border: rgb(201, 245, 196);">
+        <input type="reset" value="Reset" style="background-color: rgb(245, 207, 207); border: rgb(245, 207, 207);">
+
+    </form>
+
+</body>
+
+</html>
