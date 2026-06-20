@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6961ba0a126d85249da7b9a7"
+  },
+  "userId": "u2",
+  "eventId": "e2",
+  "rating": 5,
+  "comment": "Excellent"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9a8"
+  },
+  "userId": "u4",
+  "eventId": "e1",
+  "rating": 4,
+  "comment": "Very fun"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9a9"
+  },
+  "userId": "u5",
+  "eventId": "e2",
+  "rating": 4,
+  "comment": "Useful"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9aa"
+  },
+  "userId": "u6",
+  "eventId": "e4",
+  "rating": 5,
+  "comment": "Loved it"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9ab"
+  },
+  "userId": "u8",
+  "eventId": "e6",
+  "rating": 3,
+  "comment": "Good"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9ac"
+  },
+  "userId": "u9",
+  "eventId": "e7",
+  "rating": 1,
+  "comment": "It's a mess"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9ad"
+  },
+  "userId": "u10",
+  "eventId": "e8",
+  "rating": 5,
+  "comment": "Amazing"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9ae"
+  },
+  "userId": "u3",
+  "eventId": "e5",
+  "rating": 4,
+  "comment": "Good"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9af"
+  },
+  "userId": "u5",
+  "eventId": "e7",
+  "rating": 4,
+  "comment": "Enjoyed"
+},
+{
+  "_id": {
+    "$oid": "6961ba30126d85249da7b9b0"
+  },
+  "userId": "u7",
+  "eventId": "e9",
+  "rating": 2,
+  "comment": "Boring"
+}]

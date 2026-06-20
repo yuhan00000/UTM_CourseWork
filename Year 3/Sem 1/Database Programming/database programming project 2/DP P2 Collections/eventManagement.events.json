@@ -1,0 +1,130 @@
+[{
+  "_id": "e1",
+  "title": "Tech Conference",
+  "category": "Technology",
+  "date": {
+    "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "price": 150,
+  "capacity": 200,
+  "location": {
+    "city": "KL"
+  }
+},
+{
+  "_id": "e2",
+  "title": "Music Fest",
+  "category": "Music",
+  "date": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "price": 120,
+  "capacity": 300,
+  "location": {
+    "city": "Penang"
+  }
+},
+{
+  "_id": "e3",
+  "title": "Startup Meetup",
+  "category": "Business",
+  "date": {
+    "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "price": 80,
+  "capacity": 100,
+  "location": {
+    "city": "KL"
+  }
+},
+{
+  "_id": "e4",
+  "title": "Art Expo",
+  "category": "Art",
+  "date": {
+    "$date": "2026-04-01T00:00:00.000Z"
+  },
+  "price": 60,
+  "capacity": 150,
+  "location": {
+    "city": "Melaka"
+  }
+},
+{
+  "_id": "e5",
+  "title": "Gaming Convention",
+  "category": "Gaming",
+  "date": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "price": 90,
+  "capacity": 250,
+  "location": {
+    "city": "KL"
+  }
+},
+{
+  "_id": "e6",
+  "title": "Food Carnival",
+  "category": "Food",
+  "date": {
+    "$date": "2026-02-20T00:00:00.000Z"
+  },
+  "price": 50,
+  "capacity": 400,
+  "location": {
+    "city": "Ipoh"
+  }
+},
+{
+  "_id": "e7",
+  "title": "Fitness Camp",
+  "category": "Sports",
+  "date": {
+    "$date": "2026-06-10T00:00:00.000Z"
+  },
+  "price": 100,
+  "capacity": 100,
+  "location": {
+    "city": "Johor"
+  }
+},
+{
+  "_id": "e8",
+  "title": "Photography Workshop",
+  "category": "Art",
+  "date": {
+    "$date": "2026-03-18T00:00:00.000Z"
+  },
+  "price": 70,
+  "capacity": 80,
+  "location": {
+    "city": "KL"
+  }
+},
+{
+  "_id": "e9",
+  "title": "AI Bootcamp",
+  "category": "Technology",
+  "date": {
+    "$date": "2026-07-01T00:00:00.000Z"
+  },
+  "price": 200,
+  "capacity": 60,
+  "location": {
+    "city": "KL"
+  }
+},
+{
+  "_id": "e10",
+  "title": "Fashion Show",
+  "category": "Fashion",
+  "date": {
+    "$date": "2026-04-20T00:00:00.000Z"
+  },
+  "price": 110,
+  "capacity": 120,
+  "location": {
+    "city": "KL"
+  }
+}]
