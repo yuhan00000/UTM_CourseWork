@@ -1,0 +1,7 @@
+Network Communication provided valuable insight into the technologies and protocols that enable communication between computer systems. The course introduced networking concepts such as network architectures, communication protocols, IP addressing, routing, switching, wireless communication, and network security fundamentals.
+
+Through theoretical discussions and practical activities, a deeper understanding was developed regarding how data is transmitted across networks and how modern communication infrastructures support digital services. Learning about the layered network model and the interaction between protocols helped connect theoretical concepts with everyday technologies such as web applications, cloud platforms, and online communication systems.
+
+Challenges encountered during the course was understanding the complexity of network protocols and how multiple layers cooperate to deliver information successfully. Topics involving routing mechanisms and addressing schemes required careful study and visualization to fully understand network behavior. Practical exercises and examples significantly improved comprehension of these concepts.
+
+The knowledge gained from this course became increasingly relevant when working with cloud platforms, distributed systems, web applications, and data engineering environments where reliable communication between services is essential. The course also highlighted the importance of network security and performance considerations in system design.
