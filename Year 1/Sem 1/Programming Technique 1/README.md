@@ -1,0 +1,7 @@
+Programming Technique I marked the beginning of formal programming education and introduced fundamental concepts required for software development. The course focused on problem-solving methodologies and programming constructs such as variables, data types, selection structures, repetition structures, functions, and arrays using the C++ programming language.
+
+Throughout the semester, numerous programming exercises and assignments provided opportunities to apply theoretical concepts in practical scenarios. The process of translating problem requirements into working programs strengthened logical thinking, computational reasoning, and debugging skills. Developing solutions through coding also highlighted the importance of planning, testing, and maintaining program correctness.
+
+A significant challenge during the course was adapting to programming logic and understanding how different components of a program interact. Debugging errors and identifying logical mistakes often required patience and persistence. However, repeated practice gradually improved problem-solving abilities and confidence in writing structured code.
+
+This course established a strong programming foundation that continues to support learning in advanced subjects such as Object-Oriented Programming, Data Structures and Algorithms, Database Programming, and Application Development. The experience gained also reinforced the importance of continuous learning, as programming skills develop through consistent practice and real-world application.
