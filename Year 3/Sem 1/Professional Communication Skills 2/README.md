@@ -1,0 +1,5 @@
+Professional Communication Skills II further developed the communication competencies introduced in earlier communication courses by focusing on professional, workplace-oriented communication. The course emphasized effective presentation skills, professional writing, interpersonal communication, teamwork, and the ability to communicate complex ideas clearly and confidently.
+
+Throughout the semester, students engaged in various activities that required research, collaboration, report preparation, and presentations. These experiences strengthened the ability to organize information logically, present arguments effectively, and communicate with diverse audiences. The course also highlighted the importance of professionalism, clarity, and audience awareness in workplace communication.
+
+The course also reinforced the importance of confidence and professionalism during presentations and discussions. Continuous practice improved public speaking abilities and enhanced overall communication effectiveness.
