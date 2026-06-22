@@ -1,0 +1,7 @@
+Object-Oriented Programming (OOP) introduced a modern software development approach based on objects, classes, inheritance, encapsulation, polymorphism, and abstraction. The course expanded upon previous programming knowledge and emphasized the importance of designing maintainable, reusable, and scalable software systems.
+
+Through programming assignments and project development activities, students gained practical experience in applying object-oriented principles to solve complex problems. Learning how to structure software using classes and objects improved code organization and encouraged a more systematic approach to software design. The course also highlighted how object-oriented concepts are widely used in modern application development.
+
+One of the challenges encountered was understanding the relationships between classes and effectively applying inheritance and polymorphism within software solutions. Initially, these concepts appeared more abstract than procedural programming approaches. However, repeated implementation and project work gradually improved understanding and confidence.
+
+The skills developed through this course have proven valuable in later subjects such as Application Development, Enterprise System Design and Modelling, and Software Engineering projects. The ability to design modular and reusable software components remains one of the most important competencies gained from this course.
