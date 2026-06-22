@@ -1,0 +1,5 @@
+Professional Communication Skills I focused on developing effective written and oral communication abilities within academic and professional contexts. The course emphasized critical reading, information gathering, report writing, presentation skills, and the ability to communicate ideas clearly and professionally in English.
+
+Throughout the semester, students were required to analyze articles, conduct research, prepare written reports, and deliver presentations based on selected topics. These activities strengthened the ability to evaluate information from multiple sources, organize ideas logically, and communicate findings in a structured manner. The course also encouraged active discussion and collaboration through group-based learning activities.
+
+The emphasis on academic integrity, proper citation practices, and critical evaluation of sources helped strengthen research skills that continue to support coursework and project development in later semesters. These competencies are particularly important when producing technical documentation, reports, and professional presentations.
