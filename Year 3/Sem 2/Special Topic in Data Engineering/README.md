@@ -18,6 +18,18 @@ The case study presented by Mr. Zaid Waqi Zulkifli demonstrated how enterprise o
 
 This session strengthened understanding of enterprise data ecosystems and emphasized the importance of designing data solutions that align with business requirements and long-term organizational goals.
 
+## Industry Visit – PPG Coatings (Malaysia) Sdn. Bhd.
+
+The industry visit to PPG Coatings (Malaysia) Sdn. Bhd. provided valuable exposure to how technology and data are utilized within a large multinational organization. The visit offered an opportunity to observe how business operations, enterprise systems, and data-driven decision-making are integrated within a real industrial environment.
+
+One of the most significant learning experiences was understanding how organizations manage Business-as-Usual (BAU) operations while simultaneously developing and improving new technological solutions. This provided a practical perspective on how companies balance operational stability with continuous innovation. Observing these processes helped bridge the gap between theoretical concepts learned in university and real-world business practices.
+
+The session on SAP Business Technology Platform (SAP BTP) was particularly insightful. Learning how applications are developed, integrated, and maintained within an enterprise environment demonstrated the importance of system integration and digital transformation in modern organizations. Exposure to technologies such as Microsoft Azure and Power BI also highlighted how cloud platforms and analytics solutions support data management, reporting, and strategic decision-making.
+
+A valuable aspect of the visit was the opportunity to interact directly with SAP CoE functional and technical leaders as well as the Data & Analytics CoE leader. These discussions provided deeper insight into industry expectations, workplace culture, technical responsibilities, and the skills required for future careers in technology and data-related fields. Conversations with senior interns further strengthened understanding of internship experiences and professional development pathways.
+
+Most importantly, the visit provided a clearer understanding of how data engineering, cloud technologies, enterprise systems, and business intelligence solutions are applied in large-scale organizations. The experience reinforced the relevance of academic studies and provided motivation to continue developing both technical and professional competencies.
+
 ## Assignment 1 – Academic Writing
 
 The academic writing assignment strengthened research, analytical thinking, and technical writing skills. Conducting literature reviews, evaluating sources, and presenting arguments in a structured manner improved the ability to communicate technical concepts professionally and support claims with credible evidence.
